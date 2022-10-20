@@ -2,7 +2,7 @@
 💻 I know PHP & MYSQL & OOP & Laravel \
 👨‍💻 I’m looking to collaborate on projects \
 💬 I'm 21-years old developer from Uzbekistan/Khorezm \
-🌐 My web-site [AmuSof.uz](http://amusoft.uz) \
+🌐 My web-site [AmuSoft.uz](http://amusoft.uz) \
 📫 Reach me on [![Diyorbek Boltayev](https://img.shields.io/badge/AsadbekPulatov-30302f?style=flat&logo=telegram)](https://t.me/Asadbek_29_07) 
 
 
